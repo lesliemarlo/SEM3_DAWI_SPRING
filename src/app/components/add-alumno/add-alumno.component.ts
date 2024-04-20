@@ -8,6 +8,7 @@ import { ModalidadService } from '../../services/modalidad.service';
 import { Modalidad } from '../../models/modalidad.model';
 import Swal from 'sweetalert2';
 
+
 @Component({
   selector: 'app-add-alumno',
   standalone: true,
